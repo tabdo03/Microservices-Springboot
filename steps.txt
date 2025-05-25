@@ -14,7 +14,7 @@ depuis le fichier :
 depuis le fichier : 
 (EMPLOYEE-SERVICE\src
  src\main\java\EmployeeServiceApplication.java)       8092
-(5) api-gateway : depuis le fichier : 
+(5) api-gateway : depuis le fichier :      8060
 (API-GATEWAY\src\main\java\ApiGatewayApplication.java)  
 168. 
 Rafraîchir la page localhost:8761 et notez de la présence de (EMPLOYEE
