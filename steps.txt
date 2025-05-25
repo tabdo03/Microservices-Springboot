@@ -13,7 +13,7 @@ depuis le fichier :
 (4) employee-service : depuis le 
 depuis le fichier : 
 (EMPLOYEE-SERVICE\src
- src\main\java\EmployeeServiceApplication.java)  
+ src\main\java\EmployeeServiceApplication.java)       8092
 (5) api-gateway : depuis le fichier : 
 (API-GATEWAY\src\main\java\ApiGatewayApplication.java)  
 168. 
