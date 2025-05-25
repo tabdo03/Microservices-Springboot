@@ -1,0 +1,15 @@
+server:
+    port: 8092
+#spring:
+#    application:
+#        name: department-service
+eureka:
+    instance:
+        hostname: localhost
+    client:
+        service-url:
+            defaultZone: http://${eureka.instance.hostname}:8761/eureka/
+management:
+  tracing:
+    sampling:
+      probability: 1.0
